@@ -1,11 +1,11 @@
 # my_sqlite
-my_sqlite project Qwasar.io
+my_sqlite project Qwasar.io Season 2 Fullstack
+
 # Welcome to My Sqlite
-Hello my dear peer reviewer!
-I Hope you will be kind while checking this project, Thank you!
+This is te final version of that project I tried six times and last time finallly I passed successfull peer reviewing!
 
 ## Task
-Implement Sqlite request with CSV files nad build CLI interface too
+Implement Sqlite request with CSV files and build CLI interface too
 
 ## Description
 I implemented sqlite requests in this project.
@@ -22,7 +22,7 @@ wget https://storage.googleapis.com/qwasar-public/nba_players.csv
 
 ## Usage
 * dont forget (;) in CLI
-* please don't forget to do escape ("\"") while checking, cause js cant read string if you dont do that
+* please don't forget to do escape ("\"") while checking, cause js can't read string if you dont do that
 * From various csv formats, JS is conveniently selected. If the csv you entered does not give an error, it works correctly. Even if the format changes during the insert.
 * there has only one problem in CLI after you write command and get result "my_sqlite>" disappeared from console.You need to press up arrow key for return the word(I'm wondering why? if you know why, please let me know)
 
