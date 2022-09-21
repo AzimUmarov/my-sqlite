@@ -2,10 +2,10 @@
 my_sqlite project Qwasar.io Season 2 Fullstack
 
 # Welcome to My Sqlite
-This is te final version of that project I tried six times and last time finallly I passed successfull peer reviewing!
+This is the final version of that project I tried six times and last time finallly I passed successfull peer review!
 
 ## Task
-Implement Sqlite request with CSV files and build CLI interface too
+Implement SQLite request with CSV files and build CLI interface too
 
 ## Description
 I implemented sqlite requests in this project.
@@ -16,9 +16,15 @@ This is interesting challenge
 
 
 ## Installation
+````
 npm install
+````
+````
 wget https://storage.googleapis.com/qwasar-public/nba_player_data.csv
+````
+````
 wget https://storage.googleapis.com/qwasar-public/nba_players.csv
+````
 
 ## Usage
 * dont forget (;) in CLI
@@ -113,10 +119,13 @@ TEST CASE 12:
 INSERT INTO nba_player_data.csv VALUES ("Peter Parker","2002","2022","G-F","6-3","175","November 15, 2021","New York");
 
 
-
+### MIT License
+[![License](https://img.shields.io/badge/License-MIT-yellowgreen.svg)](https://opensource.org/licenses/Apache-2.0])  
+<a href="https://github.com/theazimjon/my-sqlite/blob/main/LICENSE.md" > Copyright (c) 2022 Azimjon Umarov </a>
+<p> Forbidden plagiarism for assigments! </p>
 
 ### The Core Team
-
+Azimjon Umarov
 
 <span><i>Made at <a href='https://qwasar.io'>Qwasar Silicon Valley</a></i></span>
 <span><img alt='Qwasar Silicon Valley Logo' src='https://storage.googleapis.com/qwasar-public/qwasar-logo_50x50.png' width='20px'></span>
