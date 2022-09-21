@@ -108,7 +108,8 @@ SELECT name,year_end FROM nba_player_data.csv WHERE name = 'Zydrunas Ilgauskas';
 TEST CASE 10:
 
 UPDATE nba_player_data.csv SET year_end = '2022',year_start = '2020' WHERE name = 'Zydrunas Ilgauskas';
-# it's first player(after descending order)
+
+it's first player(after descending order):
 
 TEST CASE 11:
 
